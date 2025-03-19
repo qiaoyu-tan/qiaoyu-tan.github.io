@@ -37,7 +37,7 @@ If you are interested in working with me, please feel free to drop me an email a
 * Trustworthy Machine Learning on Graphs: Algorithms and Applications @ Frontiers in Big Data [\[Website\]](https://www.frontiersin.org/research-topics/58326/trustworthy-machine-learning-on-graphs-algorithms-and-applications) (11 February 2024)
 
 # News
-* \[2025.03\] I will serve as the PhD Symposium Chair@CIKM'25. [Welcome to submit your proposal!](https://cikm2025.org/calls/09.html?sMenu=09) 
+* \[2025.03\] I will serve as the PhD Symposium Chair@CIKM'25. [Welcome to submit your proposal](https://cikm2025.org/calls/09.html?sMenu=09) 
 * \[2025.02\] One paper accepted by CVPR'25.
 * \[2024.11\] One paper accepted by KDD'25 (August Cycle).
 * \[2024.10\] One paper accepted by WSDM'25.
