@@ -18,7 +18,7 @@ We are currently dedicated to advancing **Generative AI for Relational World**, 
 <!--Additionally, we aim to enhancing AI capabilities in the biomedical sciences!-->
 
 
-***<font color=red size=4> Openings</font>*** **I have multiple openings for fully funded PhD positions in Fall 2025, prioritizing on Multimodal Alignment and Generation, Long CoT Reasoning, Graph LLM, and Trustworthy AI.** If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu) with your CV. See [Openings](https://qiaoyu-tan.github.io/openings/) for details!  
+***<font color=red size=4> Openings</font>*** **I have multiple openings for fully funded PhD positions in Fall 2025, prioritizing on Multimodal Alignment and Generation, Long CoT Reasoning, Graph LLM, and Trustworthy AI.** If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu) with your CV and transcript. See [Openings](https://qiaoyu-tan.github.io/openings/) for details!  
 
 <!--I am actively seeking self-motivated PhD/Master students and research (remote) interns to work with us on real-world data science problems. 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu). See [Openings](https://qiaoyu-tan.github.io/openings/) for details! -->
