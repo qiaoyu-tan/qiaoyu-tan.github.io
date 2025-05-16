@@ -34,6 +34,26 @@ author_profile: true
      <a href="https://arxiv.org/abs/2201.02534.pdf">[PDF]</a>
 
 ## Conference/Journal Publications
+*    **TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks**
+    <br>
+    Qihai Zhang, Xinyue Sheng, Yuanfu Sun, and **Qiaoyu Tan**.      
+    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'25**)</i>, 2025. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+
+*    **Concept-Centric Token Interpretation for Vector-Quantized Generative Models**
+    <br>
+    Tianze Yang, Yucheng Shi, Mengnan Du, Xuansheng Wu, **Qiaoyu Tan**, Jin Sun, and Ninghao Liu.      
+    <i>International Conference on Machine Learning (**ICML'25**)</i>, 2025. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+
+*    **Towards a Unified Framework of Clustering-based Anomaly Detection**
+    <br>
+    Zeyu Fang, Ming Gu, Sheng Zhou, Jiawei Chen, **Qiaoyu Tan**, Haishuai Wang, and Jiajun Bu.      
+    <i>International Conference on Machine Learning (**ICML'25**)</i>, 2025. <a href="https://arxiv.org/abs/2406.00452">[PDF]</a>
+
+*    **GRAPHGPT-O: Synergistic Multimodal Comprehension and Generation on Graphs**
+    <br>
+    Yi Fang, Bowen Jin, Jiacheng Shen, Sirui Ding, **Qiaoyu Tan**, and Jiawei Han.      
+    <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'25**)</i>, 2025. <a href="https://arxiv.org/pdf/2502.11925">[PDF]</a>
+
 *    **GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**
     <br>
     Yuanfu Sun, Zhengnan Ma, Yi Fang, Jing Ma, and **Qiaoyu Tan**.      
