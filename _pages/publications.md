@@ -54,6 +54,11 @@ author_profile: true
     Yi Fang, Bowen Jin, Jiacheng Shen, Sirui Ding, **Qiaoyu Tan**, and Jiawei Han.      
     <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR'25**)</i>, 2025. <a href="https://arxiv.org/pdf/2502.11925">[PDF]</a>
 
+*    **DimCL: Dimension-Aware Augmentation in Contrastive Learning for Recommendation**
+    <br>
+    Chi Zhang, Qilong Han, **Qiaoyu Tan**, Shengjie Wang, Xiangyu Zhao, and Rui Chen.      
+    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'25**)</i>, 2025. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+
 *    **GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**
     <br>
     Yuanfu Sun, Zhengnan Ma, Yi Fang, Jing Ma, and **Qiaoyu Tan**.      
