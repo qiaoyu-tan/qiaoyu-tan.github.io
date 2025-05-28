@@ -14,6 +14,7 @@ We are looking for passionate PhD students, Post-doctoral Fellows, Master Studen
 * Yuanfu Sun (Fall 2024)
 * Dongzhe Fan (Fall 2024)
 * Jiajin Liu (Spring 2025)
+* Chuanhao Ji (Fall 2025)
 
 # Research Interns
 * Yi Fang (Summer 2023)[Onsite]
