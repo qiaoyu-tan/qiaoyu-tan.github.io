@@ -38,6 +38,7 @@ If you are interested in working with me, please feel free to drop me an email a
 
 # News
 * \[2025.05\] One paper accepted by KDD'25.
+* \[2024.05\] Two PhD students (Jiajin Liu and Chuanhao Ji) are welcomed to join the DIRLab!
 * \[2025.05\] Two papers accepted by ICML'25.
 * \[2025.03\] I will serve as the PhD Symposium Chair@CIKM'25. [Welcome to submit your proposal](https://cikm2025.org/calls/09.html?sMenu=09) 
 * \[2025.02\] One paper accepted by CVPR'25.
