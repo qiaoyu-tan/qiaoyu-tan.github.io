@@ -8,11 +8,16 @@ author_profile: true
 {% include base_path %}
 
 ## Recent Preprints    
+*   **MLaGA: Multimodal Large Language and Graph Assistant**
+    <br>
+    Dongzhe Fan, Yi Fang, Jiajin Liu, Djellel Difallah, and **Qiaoyu Tan**.      
+    <i>arXiv:2406.12950</i>, 2024. <a href="https://arxiv.org/pdf/2506.02568">[PDF]</a>
+
 *   **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**
     <br>
     Yuyan Liu, Sirui Ding, Sheng Zhou, Wenqi Fan, and **Qiaoyu Tan**.      
     <i>arXiv:2406.12950</i>, 2024. <a href="https://arxiv.org/abs/2406.12950">[PDF]</a>
-
+    
 *   **GraphFM: A Comprehensive Benchmark for Graph Foundation Model**
     <br>
     Yuhao Xu, Xinqi Liu, Keyu Duan, Yi Fang, Yu-Neng Chuang, Daochen Zha, and **Qiaoyu Tan**.      
