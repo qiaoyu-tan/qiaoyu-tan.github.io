@@ -8,6 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Recent Preprints    
+*   **Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning**
+    <br>
+    Jiajin Liu, Dongzhe Fan, Jiacheng Shen, Chuanhao Ji, Daochen Zha, and **Qiaoyu Tan**.      
+    <i>arXiv:2506.10282</i>, 2024. <a href="https://arxiv.org/pdf/2506.10282">[PDF]</a>
+
 *   **MLaGA: Multimodal Large Language and Graph Assistant**
     <br>
     Dongzhe Fan, Yi Fang, Jiajin Liu, Djellel Difallah, and **Qiaoyu Tan**.      
