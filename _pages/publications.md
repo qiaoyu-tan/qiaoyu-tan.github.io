@@ -47,7 +47,7 @@ author_profile: true
 *    **TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks**
     <br>
     Qihai Zhang, Xinyue Sheng, Yuanfu Sun, and **Qiaoyu Tan**.      
-    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'25**)</i>, 2025. <a href="https://qiaoyu-tan.github.io/publications/">[PDF]</a>
+    <i>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD'25**)</i>, 2025. <a href="https://arxiv.org/pdf/2506.11844">[PDF]</a>
 
 *    **Concept-Centric Token Interpretation for Vector-Quantized Generative Models**
     <br>
