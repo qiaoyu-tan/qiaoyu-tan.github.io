@@ -24,7 +24,7 @@ We are currently dedicated to advancing **Generative AI for Relational World**, 
 If you are interested in working with me, please feel free to drop me an email at [qiaoyu.tan@nyu.edu](mailto:qiaoyu.tan@nyu.edu). See [Openings](https://qiaoyu-tan.github.io/openings/) for details! -->
 
 ***<font color=red size=4> Recent Works Related to Graph Foundation Models</font>***
-* TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks (KDD'25) [\[link\]]()
+* TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks (KDD'25) [\[link\]](https://arxiv.org/pdf/2506.11844)
 * GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design (NAACL'25) [\[link\]](https://aclanthology.org/2025.findings-naacl.131.pdf)
 * UniGLM: Training One Unified Language Model for Text-Attributed Graphs (WSDM'25) [\[link\]](https://arxiv.org/abs/2406.12052)
 * GAugLLM: Improving Graph Contrastive Learning for Text-attributed Graphs with Large Language Models (KDD'24) [\[link\]](https://arxiv.org/abs/2406.11945)
